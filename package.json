@@ -1,0 +1,16 @@
+{
+  "name": "hdb-cf-ftp-server",
+  "version": "1.0.0",
+  "description": "The is a [HarperDB](https://harperdb.io/) Custom Function to launch an FTP Server for easy file uploads.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ftp-srv": "^4.6.2",
+    "pm2": "^5.2.0"
+  }
+}
